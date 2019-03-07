@@ -1,0 +1,4 @@
+__py*
+data/glove/*txt
+data/glove/*npy
+data/elmo/elmo*
