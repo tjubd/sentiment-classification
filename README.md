@@ -36,7 +36,8 @@
 - fire
 
 ## 如何运行这个例子
-- 在[百度网盘]()中下载glove词向量`glove_300d.npy`，elmo配置文件`elmo_2x2048_256_2048cnn_1xhighway_options.json`和`elmo_2x2048_256_2048cnn_1xhighway_weights.hdf5`, 单词id映射文件`word2id.npy`。放入上方所示文件目录。
+- 在[百度网盘](https://pan.baidu.com/s/1fPM-picx20bpAGzkXWdDjQ) 中下载glove词向量`glove_300d.npy`，elmo配置文件`elmo_2x2048_256_2048cnn_1xhighway_options.json`和`elmo_2x2048_256_2048cnn_1xhighway_weights.hdf5`, 单词id映射文件`word2id.npy`。放入上方所示文件目录。
+- 密码:`6av4`
 
 - 回到主目录, 执行：
 
