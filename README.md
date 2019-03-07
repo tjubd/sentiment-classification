@@ -200,7 +200,7 @@ x = self.attenter(W, Q, sqe_len)
 ## 实验结果
 ### 测试不同的embedder
 - enc_method:`'cnn'`
-- att_method:五
+- att_method:无
  
 
 |glove|elmo|elmo_glove|
